@@ -35,6 +35,8 @@ toml = "^0.10.2"
 typer = "^0.12.5"
 user-agents = "^2.2.0"
 uvicorn = {extras = ["standard"], version = "^0.25"}
+aiohttp = "3.10.9"
+ayon-python-api = "1.0.9"
 
 [tool.poetry.group.dev.dependencies]
 asyncpg-stubs = "^0.29.1"
